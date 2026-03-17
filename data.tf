@@ -2,7 +2,7 @@
 data "aws_ami" "roboshop" {
 
     most_recent = true
-    owners = ["405832638662"]
+    owners = ["973714476881"]
 
     filter {
         name   = "name"
